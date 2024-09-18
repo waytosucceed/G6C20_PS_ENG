@@ -1,0 +1,190 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Contractions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "\"You're\" and \"your\" are interchangeable contractions. ",
+          "options": ["True", "False"],
+          "answer": 1,
+          "explanation": "\"You're\" is a contraction of \"you are,\" while \"your\" is a possessive adjective, not a contraction."
+        },
+        {
+          "questionNo": 2,
+          "question": "The contraction for \"he will\" is _______. ",
+          "options": ["he’ll", "hel’l"],
+          "answer": 0,
+          "explanation": "\"He’ll\" is the standard contraction for \"he will.\""
+        },
+        {
+          "questionNo": 3,
+          "question": "\"They _______ (are not) coming to the party.\" ",
+          "options": ["aren’t", "are’nt"],
+          "answer": 0,
+          "explanation": "\"Aren’t\" is the correct contraction for \"are not.\""
+        },
+        {
+          "questionNo": 4,
+          "question": "\"_______ (It has) been raining all day.\"",
+          "options": ["It’s", "Its’", "Both a and b"],
+          "answer": 0,
+          "explanation": "\"It’s\" can be used as a contraction for both \"it is\" and \"it has.\""
+        },
+        {
+          "questionNo": 5,
+          "question": "\"I'm\" can be used as a contraction for both \"I am\" and \"I have.\" ",
+          "options": ["True", "False"],
+          "answer": 1,
+          "explanation": "\"I’m\" is only used as a contraction for \"I am.\" For \"I have,\" the contraction is \"I’ve.\""
+        },
+        {
+          "questionNo": 6,
+          "question": "\"I _______ (have) been waiting for an hour.\" ",
+          "options": ["I’ve", "I’ll"],
+          "answer": 0,
+          "explanation": "\"I’ve\" is the correct contraction for \"I have\" in this context."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which contraction represents \"I would\"?",
+          "options": ["I’d", "I’ll", "I’ve", "I’m"],
+          "answer": 0,
+          "explanation": "\"I’d\" is the correct contraction for \"I would\" (and also for \"I had\")."
+        },
+        {
+          "questionNo": 8,
+          "question": "What is the contraction for \"does not\"?",
+          "options": ["Don’t", "Doesn’t", "Didn’t", "Dosen’t"],
+          "answer": 1,
+          "explanation": "\"Doesn’t\" is the correct contraction for \"does not.\""
+        },
+        {
+          "questionNo": 9,
+          "question": "\"We _______ (would have) gone if we had known.\" ",
+          "options": ["wouldv’e", "would’ve"],
+          "answer": 1,
+          "explanation": "\"Would’ve\" is the correct contraction for \"would have.\""
+        },
+        {
+          "questionNo": 10,
+          "question": "Which of these is a correct contraction for \"we have\"?",
+          "options": ["We’re", "We’ve", "We’d", "We’ll"],
+          "answer": 1,
+          "explanation": "\"We’ve\" is the correct contraction for \"we have.\""
+        },
+        {
+          "questionNo": 11,
+          "question": "Which contraction is formed from \"could have\"?",
+          "options": ["Could’ve", "Could'f", "Coulda", "Could have"],
+          "answer": 0,
+          "explanation": "\"Could’ve\" is the correct contraction for \"could have.\""
+        },
+        {
+          "questionNo": 12,
+          "question": "\"They’re,\" \"their,\" and \"there\" are all contractions. ",
+          "options": ["True", "False"],
+          "answer": 1,
+          "explanation": "Only \"they’re\" (they are) is a contraction. \"Their\" is a possessive pronoun and \"there\" is an adverb."
+        },
+        {
+          "questionNo": 13,
+          "question": "\"She _______ (has not) finished her homework yet.\" ",
+          "options": ["hasn’t", "has’nt"],
+          "answer": 0,
+          "explanation": "\"Hasn’t\" is the correct contraction for \"has not.\""
+        },
+        {
+          "questionNo": 14,
+          "question": "Which contraction represents \"who is\"?",
+          "options": ["Who’s", "Whose", "Who’d", "Who’ve"],
+          "answer": 0,
+          "explanation": "\"Who’s\" is the correct contraction for \"who is\" (and also for \"who has\")."
+        },
+        {
+          "questionNo": 15,
+          "question": "\"Isn’t\" is a contraction of \"is not.\" ",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "\"Isn’t\" is the correct contraction for \"is not.\""
+        },
+        {
+          "questionNo": 16,
+          "question": "\"_______ (You have) got to be kidding me!\" ",
+          "options": ["Youv’e", "You’ve"],
+          "answer": 1,
+          "explanation": "\"You’ve\" is the correct contraction for \"you have.\""
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of these is a correct contraction for \"should have\"?",
+          "options": ["Should’ve", "Should'f", "Shoulda", "Should of"],
+          "answer": 0,
+          "explanation": "\"Should’ve\" is the correct contraction for \"should have.\""
+        },
+        {
+          "questionNo": 18,
+          "question": "Which contraction is formed from \"will not\"?",
+          "options": ["Willn’t", "Won’t", "Will’t", "Wouldn’t"],
+          "answer": 1,
+          "explanation": "\"Won’t\" is the irregular contraction for \"will not.\""
+        },
+        {
+          "questionNo": 19,
+          "question": "What is the correct contraction for \"you will\"?",
+          "options": ["You’re", "You’ve", "You’ll", "Youl"],
+          "answer": 2,
+          "explanation": "\"You’ll\" is the correct contraction for \"you will.\""
+        },
+        {
+          "questionNo": 20,
+          "question": "Which of these is not a correct contraction?",
+          "options": ["Weren’t", "Can’t", "Didn’t", "Amn’t"],
+          "answer": 3,
+          "explanation": "\"Amn’t\" is not a standard contraction in English. The phrase \"am not\" typically doesn’t have a contraction."
+        },
+        {
+          "questionNo": 21,
+          "question": "Fill in the blank: \"We _______ been to Paris before, but we’re excited to go again.\"",
+          "options": ["'ve", "'re", "'d"],
+          "answer": 0,
+          "explanation": "The correct contraction for \"have\" in this context is \"’ve\". The full sentence should read: \"We’ve been to Paris before, but we’re excited to go again.\""
+        },
+        {
+          "questionNo": 22,
+          "question": "Choose the correct contraction for the underlined words: \"They are not coming to the party tonight.\"",
+          "options": ["Theyr’e not", "They aren’t", "They’ren't", "They'ven't"],
+          "answer": 1,
+          "explanation": "\"They aren’t\" is the correct contraction for \"They are not.\" The sentence would become: \"They aren’t coming to the party tonight.\""
+        },
+        {
+          "questionNo": 23,
+          "question": "Which sentence uses contractions correctly?",
+          "options": [
+            "Your going to love it when you see what I’ve bought.",
+            "You’re going to love it when you see what I’ve bought.",
+            "Your going to love it when you see what Ive bought.",
+            "You’re going to love it when you see what I’v bought."
+          ],
+          "answer": 1,
+          "explanation": "This sentence correctly uses \"You’re\" (you are) and \"I’ve\" (I have)."
+        },
+        {
+          "questionNo": 24,
+          "question": "Which contraction is used incorrectly in this sentence? \"It’s a beautiful day, and I think we’ll go for a walk, won’t we?\"",
+          "options": ["It’s", "we’ll", "won’t", "All contractions are used correctly"],
+          "answer": 3,
+          "explanation": "\"It’s\" (it is), \"we’ll\" (we will), and \"won’t\" (will not) are all used correctly in this sentence."
+        },
+        {
+          "questionNo": 25,
+          "question": "Choose the correct contraction for the underlined words: \"<u>She has not</u> finished her homework yet.\"",
+          "options": ["She’sn't", "She hasn’t", "She’ven't", "She’s not"],
+          "answer": 1,
+          "explanation": "\"She hasn’t\" is the correct contraction for \"She has not.\" The sentence would become: \"She hasn’t finished her homework yet.\""
+        }
+      ]
+    }
+  ]
+}        
